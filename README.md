@@ -8,7 +8,7 @@ Hi 這是我在stanCode與組員一起發表的專題 -- Turing Lens。
 
 在檔案裡面，有我們在CNN訓練的code、資料前處理以及資料後處理，也有與使用者互動的Gradio以及Linebot。
 
-Demo影片：https://youtube.com/shorts/2bdBh74tW4w?si=rqe9TWwdpOyqxqqG
+Demo影片：https://youtube.com/shorts/2bdBh74tW4w?si=rqe9TWwdpOyqxqqG /n
 發表影片：https://www.youtube.com/watch?v=N9II5a3SlTI&t=2s
 
 組員：Monica, Andy, Steven Fang
