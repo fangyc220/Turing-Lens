@@ -1,4 +1,4 @@
-Hi 這是我在stanCode與組員一起發表的專題 -- Turing Lens
+Hi 這是我在stanCode與組員一起發表的專題 -- Turing Lens。
 這是一個利用AI模型協助人類判斷一張照片是否來自於生成式AI。
 
 生成式AI所產生的照片，已經越來越難以透過人眼進行辨識。
